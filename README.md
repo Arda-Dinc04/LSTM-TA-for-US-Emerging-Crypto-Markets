@@ -1,23 +1,118 @@
-# LSTM Trading Assistant for US/Emerging/Crypto Markets
+# US Stock Market Technical Analysis
 
-This repository contains financial market data and analysis tools for US stocks, emerging markets, and cryptocurrency markets. The data is processed and prepared for use with LSTM (Long Short-Term Memory) models for market analysis and trading assistance.
+This project contains technical analysis data for the top 50 US stocks across various industries. The data includes daily price information and technical indicators for the past 5 years.
 
-## Directory Structure
+## Technical Indicators Included
 
-- `USA/`
-  - `USA_STOCK_DATA/` - Contains processed CSV files for US stock market data
-    - Each file contains market data including price, volume, and technical indicators
-    - Data includes: Open, High, Low, Close, Volume, SMA, RSI, MACD, Bollinger Bands, ADX
+- Simple Moving Averages (SMA50 and SMA200)
+- Relative Strength Index (RSI)
+- Moving Average Convergence Divergence (MACD)
+- Average Directional Index (ADX)
+- Bollinger Bands (Upper, Middle, Lower)
 
-## Data Format
+## Stocks by Industry
 
-Each CSV file in the stock data directories follows this structure:
+### Technology
 
+- Apple Inc. (AAPL)
+- Microsoft Corporation (MSFT)
+- Alphabet Inc. (GOOGL)
+- Meta Platforms Inc. (META)
+- NVIDIA Corporation (NVDA)
+- Broadcom Inc. (AVGO)
+- Oracle Corporation (ORCL)
+- Salesforce Inc. (CRM)
+- Advanced Micro Devices Inc. (AMD)
+- Intel Corporation (INTC)
+
+### Healthcare
+
+- Johnson & Johnson (JNJ)
+- UnitedHealth Group Inc. (UNH)
+- Eli Lilly and Company (LLY)
+- Pfizer Inc. (PFE)
+- Abbott Laboratories (ABT)
+
+### Financial Services
+
+- JPMorgan Chase & Co. (JPM)
+- Bank of America Corporation (BAC)
+- Visa Inc. (V)
+- Mastercard Incorporated (MA)
+- Wells Fargo & Company (WFC)
+
+### Consumer Goods
+
+- Procter & Gamble Company (PG)
+- Coca-Cola Company (KO)
+- PepsiCo Inc. (PEP)
+- Costco Wholesale Corporation (COST)
+- Walmart Inc. (WMT)
+
+### Industrial
+
+- Caterpillar Inc. (CAT)
+- Boeing Company (BA)
+- Honeywell International Inc. (HON)
+- United Parcel Service Inc. (UPS)
+- General Electric Company (GE)
+
+### Energy
+
+- Exxon Mobil Corporation (XOM)
+- Chevron Corporation (CVX)
+- ConocoPhillips (COP)
+- Schlumberger Limited (SLB)
+- EOG Resources Inc. (EOG)
+
+### Telecommunications
+
+- AT&T Inc. (T)
+- Verizon Communications Inc. (VZ)
+- T-Mobile US Inc. (TMUS)
+
+### Real Estate
+
+- American Tower Corporation (AMT)
+- Prologis Inc. (PLD)
+- Crown Castle Inc. (CCI)
+
+### Materials
+
+- Linde plc (LIN)
+- Air Products and Chemicals Inc. (APD)
+- Freeport-McMoRan Inc. (FCX)
+
+### Utilities
+
+- NextEra Energy Inc. (NEE)
+- Duke Energy Corporation (DUK)
+- Southern Company (SO)
+
+### Entertainment & Media
+
+- Netflix Inc. (NFLX)
+- Walt Disney Company (DIS)
+- Comcast Corporation (CMCSA)
+
+### E-commerce
+
+- Amazon.com Inc. (AMZN)
+- eBay Inc. (EBAY)
+- Etsy Inc. (ETSY)
+
+## Usage
+
+1. Install the required packages:
+
+```bash
+pip install -r requirements.txt
 ```
-Price,Open,High,Low,Close,Volume,SMA_50,SMA_200,RSI,MACD,MACD_Signal,MACD_Hist,BB_Upper,BB_Middle,BB_Lower,ADX,ADX_Plus_DI,ADX_Minus_DI,EMA_9,EMA_21,EMA_50,EMA_200
+
+2. Run the analysis script:
+
+```bash
+python us_stocks_analysis.py
 ```
 
-## Recent Changes
-
-- Removed redundant ticker rows from all stock data files
-- Cleaned and standardized CSV file formats
+The script will create a "US Stocks" directory containing CSV files for each stock with their respective technical analysis data.
