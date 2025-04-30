@@ -1,0 +1,5 @@
+,Composite Score,Composite Score,Directional Accuracy,Directional Accuracy,RMSE,RMSE,MAPE,MAPE
+,mean,std,mean,std,mean,std,mean,std
+Asset Type,,,,,,,,
+Crypto,-0.802,1.7887,50.1438,7.5249,87.319,405.9994,3.2436,1.0867
+Stock,0.7568,0.7399,48.8147,3.6346,4.0275,4.2014,1.3985,0.4491

@@ -1,0 +1,104 @@
+Asset,Composite Score,Directional Accuracy,RMSE,MAPE,Asset Type,Sector
+USDT-USD,3.56,60.95,0.01,0.51,Crypto,Cryptocurrency
+USDC-USD,3.19,58.64,0.01,0.48,Crypto,Cryptocurrency
+AMT_5y_technical_analysis,2.8,59.92,3.48,1.22,Stock,Real Estate
+CCI_5y_technical_analysis,2.18,56.2,1.67,1.2,Stock,Real Estate
+JNJ_5y_technical_analysis,1.96,53.31,1.85,0.87,Stock,Healthcare
+VZ_5y_technical_analysis,1.87,53.31,0.58,0.99,Stock,Telecommunications
+NEE_5y_technical_analysis,1.86,54.96,1.3,1.34,Stock,Utilities
+LIN_5y_technical_analysis,1.63,51.24,5.26,0.83,Stock,Materials
+ABT_5y_technical_analysis,1.6,51.65,1.55,0.97,Stock,Healthcare
+CMCSA_5y_technical_analysis,1.55,52.48,0.66,1.2,Stock,Entertainment & Media
+PG_5y_technical_analysis,1.45,50.41,1.97,0.89,Stock,Consumer Goods
+PEP_5y_technical_analysis,1.42,50.41,1.95,0.93,Stock,Consumer Goods
+SHIB-USD,1.4,62.02,0.0,3.4,Crypto,Cryptocurrency
+HON_5y_technical_analysis,1.38,50.83,3.19,1.05,Stock,Industrial
+PLD_5y_technical_analysis,1.35,52.07,2.07,1.35,Stock,Real Estate
+DIS_5y_technical_analysis,1.35,51.24,1.82,1.18,Stock,Entertainment & Media
+APD_5y_technical_analysis,1.27,50.83,5.07,1.18,Stock,Materials
+DAI-USD,1.23,49.87,0.01,1.05,Crypto,Cryptocurrency
+XOM_5y_technical_analysis,1.2,50.0,1.65,1.11,Stock,Energy
+KO_5y_technical_analysis,1.16,48.35,0.73,0.82,Stock,Consumer Goods
+BA_5y_technical_analysis,1.08,52.48,4.11,1.78,Stock,Industrial
+CVX_5y_technical_analysis,0.97,48.76,2.36,1.12,Stock,Energy
+BAC_5y_technical_analysis,0.95,49.17,0.76,1.24,Stock,Financial Services
+CAT_5y_technical_analysis,0.95,50.0,6.91,1.39,Stock,Industrial
+EOG_5y_technical_analysis,0.95,49.17,2.17,1.24,Stock,Energy
+OKB-USD,0.95,53.74,1.68,2.21,Crypto,Cryptocurrency
+COP_5y_technical_analysis,0.94,49.59,1.99,1.35,Stock,Energy
+PFE_5y_technical_analysis,0.92,48.76,0.4,1.2,Stock,Healthcare
+FCX_5y_technical_analysis,0.86,52.07,1.13,1.97,Stock,Materials
+WFC_5y_technical_analysis,0.85,50.0,1.46,1.54,Stock,Financial Services
+LTC-USD,0.82,55.81,3.93,2.8,Crypto,Cryptocurrency
+DUK_5y_technical_analysis,0.8,47.11,1.43,0.99,Stock,Utilities
+UPS_5y_technical_analysis,0.67,47.93,2.43,1.32,Stock,Industrial
+AMZN_5y_technical_analysis,0.65,48.76,4.07,1.52,Stock,E-commerce
+MSFT_5y_technical_analysis,0.6,46.69,6.47,1.14,Stock,Technology
+ETSY_5y_technical_analysis,0.59,50.41,1.43,1.96,Stock,E-commerce
+MA_5y_technical_analysis,0.54,45.87,7.15,1.03,Stock,Financial Services
+UNH_5y_technical_analysis,0.53,47.93,12.27,1.46,Stock,Healthcare
+GOOGL_5y_technical_analysis,0.5,47.52,3.32,1.45,Stock,Technology
+SLB_5y_technical_analysis,0.48,47.52,0.89,1.48,Stock,Energy
+AVGO_5y_technical_analysis,0.45,52.89,7.48,2.62,Stock,Technology
+JPM_5y_technical_analysis,0.36,46.28,4.39,1.35,Stock,Financial Services
+LLY_5y_technical_analysis,0.32,47.52,18.85,1.6,Stock,Healthcare
+BNB-USD,0.3,49.71,16.78,2.1,Crypto,Cryptocurrency
+COST_5y_technical_analysis,0.28,45.04,14.0,1.14,Stock,Consumer Goods
+AMD_5y_technical_analysis,0.28,50.41,4.28,2.33,Stock,Technology
+SO_5y_technical_analysis,0.28,44.21,1.12,1.04,Stock,Utilities
+EBAY_5y_technical_analysis,0.26,45.45,1.18,1.32,Stock,E-commerce
+CRM_5y_technical_analysis,0.25,46.69,6.69,1.57,Stock,Technology
+TRX-USD,0.23,47.81,0.02,1.85,Crypto,Cryptocurrency
+ORCL_5y_technical_analysis,0.22,47.52,4.11,1.79,Stock,Technology
+GE_5y_technical_analysis,0.18,46.69,4.14,1.67,Stock,Industrial
+XLM-USD,0.12,52.0,0.02,2.88,Crypto,Cryptocurrency
+META_5y_technical_analysis,0.07,46.28,13.11,1.68,Stock,Technology
+NFLX_5y_technical_analysis,0.05,45.45,18.15,1.5,Stock,Entertainment & Media
+V_5y_technical_analysis,0.05,42.98,4.49,1.04,Stock,Financial Services
+ADA-USD,-0.04,53.52,0.05,3.4,Crypto,Cryptocurrency
+XRP-USD,-0.05,51.05,0.09,2.89,Crypto,Cryptocurrency
+MANA-USD,-0.11,53.9,0.02,3.56,Crypto,Cryptocurrency
+XTZ-USD,-0.14,52.0,0.05,3.2,Crypto,Cryptocurrency
+DASH-USD,-0.2,51.05,1.5,3.07,Crypto,Cryptocurrency
+DOGE-USD,-0.22,53.9,0.01,3.69,Crypto,Cryptocurrency
+ETH-USD,-0.23,50.48,102.34,2.54,Crypto,Cryptocurrency
+TMUS_5y_technical_analysis,-0.24,42.15,3.85,1.23,Stock,Telecommunications
+T_5y_technical_analysis,-0.26,42.98,0.43,1.43,Stock,Telecommunications
+EOS-USD,-0.29,52.0,0.04,3.38,Crypto,Cryptocurrency
+WMT_5y_technical_analysis,-0.29,42.98,1.66,1.48,Stock,Consumer Goods
+NEAR-USD,-0.37,54.97,0.24,4.1,Crypto,Cryptocurrency
+VET-USD,-0.38,53.11,0.0,3.73,Crypto,Cryptocurrency
+MKR-USD,-0.51,52.57,100.07,3.34,Crypto,Cryptocurrency
+SOL-USD,-0.55,50.7,8.04,3.39,Crypto,Cryptocurrency
+NVDA_5y_technical_analysis,-0.58,47.93,4.6,2.86,Stock,Technology
+AVAX-USD,-0.61,52.6,1.58,3.89,Crypto,Cryptocurrency
+ALGO-USD,-0.62,52.63,0.02,3.92,Crypto,Cryptocurrency
+THETA-USD,-0.63,53.45,0.11,4.1,Crypto,Cryptocurrency
+AAPL_5y_technical_analysis,-0.65,40.91,4.46,1.47,Stock,Technology
+UNI-USD,-0.66,44.76,0.0,2.31,Crypto,Cryptocurrency
+AAVE-USD,-0.67,54.01,12.85,4.22,Crypto,Cryptocurrency
+SAND-USD,-0.72,52.4,0.04,3.99,Crypto,Cryptocurrency
+INTC_5y_technical_analysis,-0.78,45.87,0.92,2.69,Stock,Technology
+ZIL-USD,-0.83,48.85,0.0,3.38,Crypto,Cryptocurrency
+DOT-USD,-0.83,48.35,0.28,3.28,Crypto,Cryptocurrency
+HBAR-USD,-0.84,52.25,0.01,4.11,Crypto,Cryptocurrency
+EGLD-USD,-0.86,49.7,1.41,3.59,Crypto,Cryptocurrency
+FIL-USD,-0.9,50.1,0.3,3.74,Crypto,Cryptocurrency
+LINK-USD,-0.93,48.95,0.88,3.53,Crypto,Cryptocurrency
+CHZ-USD,-0.98,50.48,0.0,3.91,Crypto,Cryptocurrency
+AXS-USD,-1.0,49.06,0.27,3.64,Crypto,Cryptocurrency
+FTM-USD,-1.13,53.6,0.04,4.76,Crypto,Cryptocurrency
+GALA-USD,-1.16,52.19,0.0,4.5,Crypto,Cryptocurrency
+SNX-USD,-1.16,50.1,0.14,4.06,Crypto,Cryptocurrency
+MATIC-USD,-1.19,46.45,0.03,3.32,Crypto,Cryptocurrency
+ZEC-USD,-1.21,47.24,1.97,3.51,Crypto,Cryptocurrency
+ATOM-USD,-1.28,45.89,0.33,3.32,Crypto,Cryptocurrency
+ICP-USD,-1.41,47.14,0.45,3.74,Crypto,Cryptocurrency
+CAKE-USD,-1.57,47.08,0.14,3.92,Crypto,Cryptocurrency
+KSM-USD,-1.61,46.48,2.95,3.84,Crypto,Cryptocurrency
+CRV-USD,-2.28,47.31,0.04,4.85,Crypto,Cryptocurrency
+GRT-USD,-2.46,44.63,0.03,4.51,Crypto,Cryptocurrency
+FTT-USD,-2.54,44.88,0.16,4.66,Crypto,Cryptocurrency
+COMP-USD,-5.62,4.73,0.0,0.0,Crypto,Cryptocurrency
+BTC-USD,-6.54,50.29,2012.48,2.0,Crypto,Cryptocurrency
+WBTC-USD,-6.57,51.79,2094.53,2.01,Crypto,Cryptocurrency

@@ -1,0 +1,622 @@
+=== Asset Performance Ranking ===
+
+Ranked by composite score (higher is better):
+
+USDT-USD:
+ • Composite Score: 3.56
+ • Directional Accuracy: 60.95%
+ • RMSE: 0.01
+ • MAPE: 0.51%
+
+USDC-USD:
+ • Composite Score: 3.19
+ • Directional Accuracy: 58.64%
+ • RMSE: 0.01
+ • MAPE: 0.48%
+
+AMT_5y_technical_analysis:
+ • Composite Score: 2.80
+ • Directional Accuracy: 59.92%
+ • RMSE: 3.48
+ • MAPE: 1.22%
+
+CCI_5y_technical_analysis:
+ • Composite Score: 2.18
+ • Directional Accuracy: 56.20%
+ • RMSE: 1.67
+ • MAPE: 1.20%
+
+JNJ_5y_technical_analysis:
+ • Composite Score: 1.96
+ • Directional Accuracy: 53.31%
+ • RMSE: 1.85
+ • MAPE: 0.87%
+
+VZ_5y_technical_analysis:
+ • Composite Score: 1.87
+ • Directional Accuracy: 53.31%
+ • RMSE: 0.58
+ • MAPE: 0.99%
+
+NEE_5y_technical_analysis:
+ • Composite Score: 1.86
+ • Directional Accuracy: 54.96%
+ • RMSE: 1.30
+ • MAPE: 1.34%
+
+LIN_5y_technical_analysis:
+ • Composite Score: 1.63
+ • Directional Accuracy: 51.24%
+ • RMSE: 5.26
+ • MAPE: 0.83%
+
+ABT_5y_technical_analysis:
+ • Composite Score: 1.60
+ • Directional Accuracy: 51.65%
+ • RMSE: 1.55
+ • MAPE: 0.97%
+
+CMCSA_5y_technical_analysis:
+ • Composite Score: 1.55
+ • Directional Accuracy: 52.48%
+ • RMSE: 0.66
+ • MAPE: 1.20%
+
+PG_5y_technical_analysis:
+ • Composite Score: 1.45
+ • Directional Accuracy: 50.41%
+ • RMSE: 1.97
+ • MAPE: 0.89%
+
+PEP_5y_technical_analysis:
+ • Composite Score: 1.42
+ • Directional Accuracy: 50.41%
+ • RMSE: 1.95
+ • MAPE: 0.93%
+
+SHIB-USD:
+ • Composite Score: 1.40
+ • Directional Accuracy: 62.02%
+ • RMSE: 0.00
+ • MAPE: 3.40%
+
+HON_5y_technical_analysis:
+ • Composite Score: 1.38
+ • Directional Accuracy: 50.83%
+ • RMSE: 3.19
+ • MAPE: 1.05%
+
+PLD_5y_technical_analysis:
+ • Composite Score: 1.35
+ • Directional Accuracy: 52.07%
+ • RMSE: 2.07
+ • MAPE: 1.35%
+
+DIS_5y_technical_analysis:
+ • Composite Score: 1.35
+ • Directional Accuracy: 51.24%
+ • RMSE: 1.82
+ • MAPE: 1.18%
+
+APD_5y_technical_analysis:
+ • Composite Score: 1.27
+ • Directional Accuracy: 50.83%
+ • RMSE: 5.07
+ • MAPE: 1.18%
+
+DAI-USD:
+ • Composite Score: 1.23
+ • Directional Accuracy: 49.87%
+ • RMSE: 0.01
+ • MAPE: 1.05%
+
+XOM_5y_technical_analysis:
+ • Composite Score: 1.20
+ • Directional Accuracy: 50.00%
+ • RMSE: 1.65
+ • MAPE: 1.11%
+
+KO_5y_technical_analysis:
+ • Composite Score: 1.16
+ • Directional Accuracy: 48.35%
+ • RMSE: 0.73
+ • MAPE: 0.82%
+
+BA_5y_technical_analysis:
+ • Composite Score: 1.08
+ • Directional Accuracy: 52.48%
+ • RMSE: 4.11
+ • MAPE: 1.78%
+
+CVX_5y_technical_analysis:
+ • Composite Score: 0.97
+ • Directional Accuracy: 48.76%
+ • RMSE: 2.36
+ • MAPE: 1.12%
+
+BAC_5y_technical_analysis:
+ • Composite Score: 0.95
+ • Directional Accuracy: 49.17%
+ • RMSE: 0.76
+ • MAPE: 1.24%
+
+CAT_5y_technical_analysis:
+ • Composite Score: 0.95
+ • Directional Accuracy: 50.00%
+ • RMSE: 6.91
+ • MAPE: 1.39%
+
+EOG_5y_technical_analysis:
+ • Composite Score: 0.95
+ • Directional Accuracy: 49.17%
+ • RMSE: 2.17
+ • MAPE: 1.24%
+
+OKB-USD:
+ • Composite Score: 0.95
+ • Directional Accuracy: 53.74%
+ • RMSE: 1.68
+ • MAPE: 2.21%
+
+COP_5y_technical_analysis:
+ • Composite Score: 0.94
+ • Directional Accuracy: 49.59%
+ • RMSE: 1.99
+ • MAPE: 1.35%
+
+PFE_5y_technical_analysis:
+ • Composite Score: 0.92
+ • Directional Accuracy: 48.76%
+ • RMSE: 0.40
+ • MAPE: 1.20%
+
+FCX_5y_technical_analysis:
+ • Composite Score: 0.86
+ • Directional Accuracy: 52.07%
+ • RMSE: 1.13
+ • MAPE: 1.97%
+
+WFC_5y_technical_analysis:
+ • Composite Score: 0.85
+ • Directional Accuracy: 50.00%
+ • RMSE: 1.46
+ • MAPE: 1.54%
+
+LTC-USD:
+ • Composite Score: 0.82
+ • Directional Accuracy: 55.81%
+ • RMSE: 3.93
+ • MAPE: 2.80%
+
+DUK_5y_technical_analysis:
+ • Composite Score: 0.80
+ • Directional Accuracy: 47.11%
+ • RMSE: 1.43
+ • MAPE: 0.99%
+
+UPS_5y_technical_analysis:
+ • Composite Score: 0.67
+ • Directional Accuracy: 47.93%
+ • RMSE: 2.43
+ • MAPE: 1.32%
+
+AMZN_5y_technical_analysis:
+ • Composite Score: 0.65
+ • Directional Accuracy: 48.76%
+ • RMSE: 4.07
+ • MAPE: 1.52%
+
+MSFT_5y_technical_analysis:
+ • Composite Score: 0.60
+ • Directional Accuracy: 46.69%
+ • RMSE: 6.47
+ • MAPE: 1.14%
+
+ETSY_5y_technical_analysis:
+ • Composite Score: 0.59
+ • Directional Accuracy: 50.41%
+ • RMSE: 1.43
+ • MAPE: 1.96%
+
+MA_5y_technical_analysis:
+ • Composite Score: 0.54
+ • Directional Accuracy: 45.87%
+ • RMSE: 7.15
+ • MAPE: 1.03%
+
+UNH_5y_technical_analysis:
+ • Composite Score: 0.53
+ • Directional Accuracy: 47.93%
+ • RMSE: 12.27
+ • MAPE: 1.46%
+
+GOOGL_5y_technical_analysis:
+ • Composite Score: 0.50
+ • Directional Accuracy: 47.52%
+ • RMSE: 3.32
+ • MAPE: 1.45%
+
+SLB_5y_technical_analysis:
+ • Composite Score: 0.48
+ • Directional Accuracy: 47.52%
+ • RMSE: 0.89
+ • MAPE: 1.48%
+
+AVGO_5y_technical_analysis:
+ • Composite Score: 0.45
+ • Directional Accuracy: 52.89%
+ • RMSE: 7.48
+ • MAPE: 2.62%
+
+JPM_5y_technical_analysis:
+ • Composite Score: 0.36
+ • Directional Accuracy: 46.28%
+ • RMSE: 4.39
+ • MAPE: 1.35%
+
+LLY_5y_technical_analysis:
+ • Composite Score: 0.32
+ • Directional Accuracy: 47.52%
+ • RMSE: 18.85
+ • MAPE: 1.60%
+
+BNB-USD:
+ • Composite Score: 0.30
+ • Directional Accuracy: 49.71%
+ • RMSE: 16.78
+ • MAPE: 2.10%
+
+COST_5y_technical_analysis:
+ • Composite Score: 0.28
+ • Directional Accuracy: 45.04%
+ • RMSE: 14.00
+ • MAPE: 1.14%
+
+AMD_5y_technical_analysis:
+ • Composite Score: 0.28
+ • Directional Accuracy: 50.41%
+ • RMSE: 4.28
+ • MAPE: 2.33%
+
+SO_5y_technical_analysis:
+ • Composite Score: 0.28
+ • Directional Accuracy: 44.21%
+ • RMSE: 1.12
+ • MAPE: 1.04%
+
+EBAY_5y_technical_analysis:
+ • Composite Score: 0.26
+ • Directional Accuracy: 45.45%
+ • RMSE: 1.18
+ • MAPE: 1.32%
+
+CRM_5y_technical_analysis:
+ • Composite Score: 0.25
+ • Directional Accuracy: 46.69%
+ • RMSE: 6.69
+ • MAPE: 1.57%
+
+TRX-USD:
+ • Composite Score: 0.23
+ • Directional Accuracy: 47.81%
+ • RMSE: 0.02
+ • MAPE: 1.85%
+
+ORCL_5y_technical_analysis:
+ • Composite Score: 0.22
+ • Directional Accuracy: 47.52%
+ • RMSE: 4.11
+ • MAPE: 1.79%
+
+GE_5y_technical_analysis:
+ • Composite Score: 0.18
+ • Directional Accuracy: 46.69%
+ • RMSE: 4.14
+ • MAPE: 1.67%
+
+XLM-USD:
+ • Composite Score: 0.12
+ • Directional Accuracy: 52.00%
+ • RMSE: 0.02
+ • MAPE: 2.88%
+
+META_5y_technical_analysis:
+ • Composite Score: 0.07
+ • Directional Accuracy: 46.28%
+ • RMSE: 13.11
+ • MAPE: 1.68%
+
+NFLX_5y_technical_analysis:
+ • Composite Score: 0.05
+ • Directional Accuracy: 45.45%
+ • RMSE: 18.15
+ • MAPE: 1.50%
+
+V_5y_technical_analysis:
+ • Composite Score: 0.05
+ • Directional Accuracy: 42.98%
+ • RMSE: 4.49
+ • MAPE: 1.04%
+
+ADA-USD:
+ • Composite Score: -0.04
+ • Directional Accuracy: 53.52%
+ • RMSE: 0.05
+ • MAPE: 3.40%
+
+XRP-USD:
+ • Composite Score: -0.05
+ • Directional Accuracy: 51.05%
+ • RMSE: 0.09
+ • MAPE: 2.89%
+
+MANA-USD:
+ • Composite Score: -0.11
+ • Directional Accuracy: 53.90%
+ • RMSE: 0.02
+ • MAPE: 3.56%
+
+XTZ-USD:
+ • Composite Score: -0.14
+ • Directional Accuracy: 52.00%
+ • RMSE: 0.05
+ • MAPE: 3.20%
+
+DASH-USD:
+ • Composite Score: -0.20
+ • Directional Accuracy: 51.05%
+ • RMSE: 1.50
+ • MAPE: 3.07%
+
+DOGE-USD:
+ • Composite Score: -0.22
+ • Directional Accuracy: 53.90%
+ • RMSE: 0.01
+ • MAPE: 3.69%
+
+ETH-USD:
+ • Composite Score: -0.23
+ • Directional Accuracy: 50.48%
+ • RMSE: 102.34
+ • MAPE: 2.54%
+
+TMUS_5y_technical_analysis:
+ • Composite Score: -0.24
+ • Directional Accuracy: 42.15%
+ • RMSE: 3.85
+ • MAPE: 1.23%
+
+T_5y_technical_analysis:
+ • Composite Score: -0.26
+ • Directional Accuracy: 42.98%
+ • RMSE: 0.43
+ • MAPE: 1.43%
+
+EOS-USD:
+ • Composite Score: -0.29
+ • Directional Accuracy: 52.00%
+ • RMSE: 0.04
+ • MAPE: 3.38%
+
+WMT_5y_technical_analysis:
+ • Composite Score: -0.29
+ • Directional Accuracy: 42.98%
+ • RMSE: 1.66
+ • MAPE: 1.48%
+
+NEAR-USD:
+ • Composite Score: -0.37
+ • Directional Accuracy: 54.97%
+ • RMSE: 0.24
+ • MAPE: 4.10%
+
+VET-USD:
+ • Composite Score: -0.38
+ • Directional Accuracy: 53.11%
+ • RMSE: 0.00
+ • MAPE: 3.73%
+
+MKR-USD:
+ • Composite Score: -0.51
+ • Directional Accuracy: 52.57%
+ • RMSE: 100.07
+ • MAPE: 3.34%
+
+SOL-USD:
+ • Composite Score: -0.55
+ • Directional Accuracy: 50.70%
+ • RMSE: 8.04
+ • MAPE: 3.39%
+
+NVDA_5y_technical_analysis:
+ • Composite Score: -0.58
+ • Directional Accuracy: 47.93%
+ • RMSE: 4.60
+ • MAPE: 2.86%
+
+AVAX-USD:
+ • Composite Score: -0.61
+ • Directional Accuracy: 52.60%
+ • RMSE: 1.58
+ • MAPE: 3.89%
+
+ALGO-USD:
+ • Composite Score: -0.62
+ • Directional Accuracy: 52.63%
+ • RMSE: 0.02
+ • MAPE: 3.92%
+
+THETA-USD:
+ • Composite Score: -0.63
+ • Directional Accuracy: 53.45%
+ • RMSE: 0.11
+ • MAPE: 4.10%
+
+AAPL_5y_technical_analysis:
+ • Composite Score: -0.65
+ • Directional Accuracy: 40.91%
+ • RMSE: 4.46
+ • MAPE: 1.47%
+
+UNI-USD:
+ • Composite Score: -0.66
+ • Directional Accuracy: 44.76%
+ • RMSE: 0.00
+ • MAPE: 2.31%
+
+AAVE-USD:
+ • Composite Score: -0.67
+ • Directional Accuracy: 54.01%
+ • RMSE: 12.85
+ • MAPE: 4.22%
+
+SAND-USD:
+ • Composite Score: -0.72
+ • Directional Accuracy: 52.40%
+ • RMSE: 0.04
+ • MAPE: 3.99%
+
+INTC_5y_technical_analysis:
+ • Composite Score: -0.78
+ • Directional Accuracy: 45.87%
+ • RMSE: 0.92
+ • MAPE: 2.69%
+
+ZIL-USD:
+ • Composite Score: -0.83
+ • Directional Accuracy: 48.85%
+ • RMSE: 0.00
+ • MAPE: 3.38%
+
+DOT-USD:
+ • Composite Score: -0.83
+ • Directional Accuracy: 48.35%
+ • RMSE: 0.28
+ • MAPE: 3.28%
+
+HBAR-USD:
+ • Composite Score: -0.84
+ • Directional Accuracy: 52.25%
+ • RMSE: 0.01
+ • MAPE: 4.11%
+
+EGLD-USD:
+ • Composite Score: -0.86
+ • Directional Accuracy: 49.70%
+ • RMSE: 1.41
+ • MAPE: 3.59%
+
+FIL-USD:
+ • Composite Score: -0.90
+ • Directional Accuracy: 50.10%
+ • RMSE: 0.30
+ • MAPE: 3.74%
+
+LINK-USD:
+ • Composite Score: -0.93
+ • Directional Accuracy: 48.95%
+ • RMSE: 0.88
+ • MAPE: 3.53%
+
+CHZ-USD:
+ • Composite Score: -0.98
+ • Directional Accuracy: 50.48%
+ • RMSE: 0.00
+ • MAPE: 3.91%
+
+AXS-USD:
+ • Composite Score: -1.00
+ • Directional Accuracy: 49.06%
+ • RMSE: 0.27
+ • MAPE: 3.64%
+
+FTM-USD:
+ • Composite Score: -1.13
+ • Directional Accuracy: 53.60%
+ • RMSE: 0.04
+ • MAPE: 4.76%
+
+GALA-USD:
+ • Composite Score: -1.16
+ • Directional Accuracy: 52.19%
+ • RMSE: 0.00
+ • MAPE: 4.50%
+
+SNX-USD:
+ • Composite Score: -1.16
+ • Directional Accuracy: 50.10%
+ • RMSE: 0.14
+ • MAPE: 4.06%
+
+MATIC-USD:
+ • Composite Score: -1.19
+ • Directional Accuracy: 46.45%
+ • RMSE: 0.03
+ • MAPE: 3.32%
+
+ZEC-USD:
+ • Composite Score: -1.21
+ • Directional Accuracy: 47.24%
+ • RMSE: 1.97
+ • MAPE: 3.51%
+
+ATOM-USD:
+ • Composite Score: -1.28
+ • Directional Accuracy: 45.89%
+ • RMSE: 0.33
+ • MAPE: 3.32%
+
+ICP-USD:
+ • Composite Score: -1.41
+ • Directional Accuracy: 47.14%
+ • RMSE: 0.45
+ • MAPE: 3.74%
+
+CAKE-USD:
+ • Composite Score: -1.57
+ • Directional Accuracy: 47.08%
+ • RMSE: 0.14
+ • MAPE: 3.92%
+
+KSM-USD:
+ • Composite Score: -1.61
+ • Directional Accuracy: 46.48%
+ • RMSE: 2.95
+ • MAPE: 3.84%
+
+CRV-USD:
+ • Composite Score: -2.28
+ • Directional Accuracy: 47.31%
+ • RMSE: 0.04
+ • MAPE: 4.85%
+
+GRT-USD:
+ • Composite Score: -2.46
+ • Directional Accuracy: 44.63%
+ • RMSE: 0.03
+ • MAPE: 4.51%
+
+FTT-USD:
+ • Composite Score: -2.54
+ • Directional Accuracy: 44.88%
+ • RMSE: 0.16
+ • MAPE: 4.66%
+
+COMP-USD:
+ • Composite Score: -5.62
+ • Directional Accuracy: 4.73%
+ • RMSE: 0.00
+ • MAPE: 0.00%
+
+BTC-USD:
+ • Composite Score: -6.54
+ • Directional Accuracy: 50.29%
+ • RMSE: 2012.48
+ • MAPE: 2.00%
+
+WBTC-USD:
+ • Composite Score: -6.57
+ • Directional Accuracy: 51.79%
+ • RMSE: 2094.53
+ • MAPE: 2.01%
+

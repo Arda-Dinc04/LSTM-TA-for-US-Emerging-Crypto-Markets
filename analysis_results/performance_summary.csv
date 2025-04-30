@@ -1,0 +1,5 @@
+Metric,Best Performer,Best Value,Worst Performer,Worst Value
+Composite Score,USDT-USD,3.56,WBTC-USD,-6.57
+Directional Accuracy,SHIB-USD,62.02,COMP-USD,4.73
+RMSE,SHIB-USD,0.0,WBTC-USD,2094.53
+MAPE,COMP-USD,0.0,CRV-USD,4.85
